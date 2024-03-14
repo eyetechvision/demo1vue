@@ -1,0 +1,24 @@
+{
+
+  "future_records": [],
+  "medical_records": [
+{
+  "AL": 24.58,
+  "SD": 7.45,
+  "age": 12,
+  "gender": "female",
+  "patient_id": 0,
+  "reflection_S": null
+}
+  ],
+  "patient": {
+    "birthday": null,
+    "created_at": null,
+    "gender": null,
+    "parent_id": null,
+    "patient_id": 0,
+    "pid": null
+  },
+  "warning_level":0
+
+}

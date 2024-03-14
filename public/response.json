@@ -1,0 +1,47 @@
+{
+    "future_records": [
+    [
+    13,
+    "-5.62"
+    ],
+    [
+    14,
+    "-5.93"
+    ],
+    [
+    15,
+    "-6.38"
+    ],
+    [
+    16,
+    "-6.61"
+    ],
+    [
+    17,
+    "-6.46"
+    ],
+    [
+    18,
+    "-6.03"
+    ]
+    ],
+    "medical_records": [
+    {
+    "AL": "24.58",
+    "SD": "7.45",
+    "age": 12,
+    "gender": "female",
+    "patient_id": 123,
+    "reflection_S": "-2.13"
+    }
+    ],
+    "patient": {
+    "birthday": "Sun, 01 Jan 2012 00:00:00 GMT",
+    "created_at": "Tue, 27 Feb 2024 12:23:21 GMT",
+    "gender": "2",
+    "parent_id": null,
+    "patient_id": 123,
+    "pid": null
+    },
+    "warning_level": "0.91715"
+    }

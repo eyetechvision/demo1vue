@@ -1,5 +1,8 @@
 # my-project
 
+<!-- conda activate test
+for ian's bash -->
+
 ## Project setup
 
 ```
